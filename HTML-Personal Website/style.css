@@ -1,0 +1,53 @@
+/********TAG SELECTORS********/
+body {
+  background-color: #fff5ee;
+  font-size: 20px;
+}
+
+h1 {
+  color:#483d8b;
+  font-size:30px;
+}
+
+h2{
+  color:#483d8b;
+}
+p{
+  font-size: 20px;
+}
+
+hr {
+  background-color:none;
+  border-style:none;
+  border-top-style: none;
+  border-color:none;
+  border-width:0px;
+  height:0px;
+  width:auto;
+}
+/********TAG SELECTORS********/
+
+/*
+img:hover {
+  background-color: lightblue;
+}
+*/
+
+/********CLASS SELECTORS********/
+/*A Class works for several instances.*/
+.profile {
+  background-color:lightgreen;
+}
+
+.robot {
+  background-color:lightgrey;
+}
+/********CLASS SELECTORS********/
+
+/********ID SELECTORS********/
+/* ID is for single instance.*/
+/*
+#heading {
+  color:lightpink;
+}
+*/
