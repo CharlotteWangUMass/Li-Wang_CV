@@ -1,6 +1,7 @@
 /********TAG SELECTORS********/
 body {
   background-color: #fff5ee;
+  font-size: 20px;
 }
 
 h1 {
@@ -10,6 +11,9 @@ h1 {
 
 h2{
   color:#483d8b;
+}
+p{
+  font-size: 20px;
 }
 
 hr {
